@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113934669259",
+    "firebase_url": "https://infans-kalteng-new.firebaseio.com",
+    "project_id": "infans-kalteng-new",
+    "storage_bucket": "infans-kalteng-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113934669259:android:3093dd5ad5068e11c4124e",
+        "android_client_info": {
+          "package_name": "com.infanskalteng.infanskalteng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113934669259-3tvvntk8rubllkcjk7bslcu2riavnn4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSbQ2fLJ010-XX6hQNAfG2Gc43Vito_ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113934669259-3tvvntk8rubllkcjk7bslcu2riavnn4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
